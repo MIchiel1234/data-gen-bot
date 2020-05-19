@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\obj\Debug\datagenaration.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\obj\Debug\datagenaration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\bin\Debug\datagenaration.exe.config
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\bin\Debug\datagenaration.exe
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\bin\Debug\datagenaration.pdb
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\obj\Debug\datagenaration.exe
+C:\Users\User\Desktop\neural net\datagenaration\datagenaration\obj\Debug\datagenaration.pdb
